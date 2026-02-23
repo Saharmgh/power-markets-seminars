@@ -28,7 +28,7 @@ All notebooks use **Python** with [Pyomo](https://www.pyomo.org/) for optimizati
 
 ### Seminar 1: Economic Dispatch
 - **Basic version:** Direct translation of the original Julia/JuMP seminar. Covers single-period ED, multi-period ED, ramp constraints, and the California duck curve.
-- **Enhanced version:** Adds LMP extraction, real CAISO data exploration, "break the model" exercises, comparison tables, and quiz cells.
+- **Enhanced version:** Adds LMP extraction, real CAISO data exploration
 
 ### Seminar 2: Unit Commitment
 Three progressive stages:
